@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.12",
     "autoprefixer": "^10.4.14",
+    "graphql": "^16.6.0",
     "magic-sdk": "^16.2.0",
     "moralis": "^2.18.3",
     "moralis-v1": "^1.12.0",
